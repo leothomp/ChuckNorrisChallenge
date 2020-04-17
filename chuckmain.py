@@ -1,7 +1,7 @@
 #!/Users/leothomp/PycharmProjects/ChuckNorrisChallenge/ve-Chuck/bin/python
 import requests
 import json
-import pprint
+
 
 urlRandomJoke="https://api.chucknorris.io/jokes/random"
 urlJokeByCat="https://api.chucknorris.io/jokes/random?category="
